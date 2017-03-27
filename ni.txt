@@ -1,2 +1,5 @@
  var b="nihao";
-console.log()
+console.log()£»
+
+vara="12";
+var d="nihao1,wozhidao1nishiu"
