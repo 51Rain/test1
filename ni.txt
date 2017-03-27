@@ -1,0 +1,2 @@
+ var b="nihao";
+console.log()
